@@ -1,1 +1,3 @@
 Why can't i easily have logs on discord for netlify
+
+Testing again
